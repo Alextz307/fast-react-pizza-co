@@ -26,6 +26,8 @@ To run this project locally, follow these steps:
    cd pizza-ordering-app
    ```
 3. **Install dependencies**:
+   
+   Make sure you have [Node.js](https://nodejs.org/) installed, then run:
    ```bash
    npm install
    ```
