@@ -60,9 +60,3 @@ To use Tailwind CSS in your project, ensure that you have it installed and prope
 ## 🗺️ GPS Location (Optional)
 
 If available, the app will attempt to use the device's GPS to automatically fill in the user's location details.
-
-## ⚙️ Future Enhancements
-
-- Add more detailed order tracking features.
-- Improve the user interface with more responsive design elements.
-- Integrate a payment gateway for online payments.
