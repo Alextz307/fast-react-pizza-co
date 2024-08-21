@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-The app should now be running on `http://localhost:5173`.
+Now you should be able to access the application via the URL provided in the terminal output (probably http://localhost:5173).
 
 ## 🧩 Project Structure
 
